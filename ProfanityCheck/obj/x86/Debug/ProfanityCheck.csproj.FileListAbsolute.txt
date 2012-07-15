@@ -1,0 +1,22 @@
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\bin\Debug\ProfanityCheck.exe
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\bin\Debug\ProfanityCheck.pdb
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\bin\Debug\GenericParsing.dll
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\obj\x86\Debug\ProfanityCheck.Form1.resources
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\obj\x86\Debug\ProfanityCheck.Properties.Resources.resources
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\obj\x86\Debug\ProfanityCheck.exe
+C:\Users\james.hill\AppData\Local\Temporary Projects\ProfanityCheck\obj\x86\Debug\ProfanityCheck.pdb
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\obj\x86\Debug\ProfanityCheck.exe
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\obj\x86\Debug\ProfanityCheck.pdb
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\bin\Debug\ProfanityCheck.exe
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\bin\Debug\ProfanityCheck.pdb
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\bin\Debug\GenericParsing.dll
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\obj\x86\Debug\ResolveAssemblyReference.cache
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\obj\x86\Debug\ProfanityCheck.Form1.resources
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\obj\x86\Debug\ProfanityCheck.Properties.Resources.resources
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\obj\x86\Debug\GenerateResource.read.1.tlog
+\\nztr-sbs\UserShares\James.Hill\My Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\James\Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\obj\x86\Debug\ProfanityCheck.exe
+C:\Users\James\Documents\Visual Studio 2010\Projects\ProfanityCheck\ProfanityCheck\obj\x86\Debug\ProfanityCheck.pdb
